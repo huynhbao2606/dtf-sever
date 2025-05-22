@@ -1,0 +1,52 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1747906816035
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747906980445
+  login: 1747905525279
+  kits:
+    tools: 1747855112781
+    food: 1747855113627
+    pvp: 1747855113978
+    claim: 1747855114326
+money: '11095.0'
+last-account-name: HuynhBaoo
+lastlocation:
+  world: 38cd54f7-310d-4ae3-9575-1a0bc8c4d004
+  world-name: playworld
+  x: 5800.300000011921
+  y: 83.0
+  z: -41246.846658523966
+  yaw: 90.8573989868164
+  pitch: 30.749927520751953
+logoutlocation:
+  world: 4b0168ce-3e79-4123-9bef-119722e4c3f0
+  world-name: spawn
+  x: 39.74577146054274
+  y: 98.0
+  z: -40.52986668614492
+  yaw: 39.410369873046875
+  pitch: 2.8499209880828857
+homes:
+  home:
+    world: 38cd54f7-310d-4ae3-9575-1a0bc8c4d004
+    world-name: playworld
+    x: 16984.03359703448
+    y: 63.0
+    z: 4067.0636825950337
+    yaw: -39.792457580566406
+    pitch: 50.69993209838867

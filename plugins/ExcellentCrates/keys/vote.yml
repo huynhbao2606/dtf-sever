@@ -1,0 +1,19 @@
+Name: §6Vote Key
+Virtual: false
+Item:
+  Material: PAPER
+  Custom_Model_Data: 3001
+  Amount: 1
+  Durability: 0
+  Name: '&6&lVote Key'
+  Lore:
+  - ''
+  - '&7Purchase more crate keys'
+  - '&7with &6/coinshop'
+  - ''
+  - '&e➥ Use at Warp Crates!'
+  Enchants:
+    unbreaking: 1
+  Item_Flags:
+    - HIDE_ENCHANTS     
+  Unbreakable: false

@@ -1,0 +1,19 @@
+Name: §dEpic Key
+Virtual: false
+Item:
+  Material: PAPER
+  Custom_Model_Data: 3004
+  Amount: 1
+  Durability: 0
+  Name: '&d&lEpic Key'
+  Lore:
+  - ''
+  - '&7Purchase more crate keys'
+  - '&7with &d/coinshop'
+  - ''
+  - '&e➥ Use at Warp Crates!'
+  Enchants:
+    unbreaking: 1
+  Item_Flags:
+    - HIDE_ENCHANTS     
+  Unbreakable: false
