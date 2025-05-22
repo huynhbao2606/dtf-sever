@@ -513,127 +513,127 @@ info:
   # Avoid adding color codes to the enchant name
   EnchantNames:
     damage_undead: Smite
-    cutter: Cutter
     depth_strider: DepthStrider
     arrow_infinite: Infinity
-    elemental_protection: Elemental_protection
+    veinminer: Veinminer
+    cold_steel: Cold_steel
+    survivalist: Survivalist
+    ghast: Ghast
+    seasoned_angler: Seasoned_angler
     water_worker: AquaAffinity
-    auto_reel: Auto_reel
-    mending: Mending
     exp_hunter: Exp_hunter
+    withered_arrows: Withered_arrows
+    mending: Mending
+    sniper: Sniper
     piercing: Piercing
-    saturation: Saturation
-    divine_touch: Divine_touch
+    cure: Cure
     arrow_damage: Power
-    decapitator: Decapitator
-    curse_of_death: Curse_of_death
-    ice_shield: Ice_shield
-    soulbound: Soulbound
-    wither: Wither
-    bunny_hop: Bunny_hop
-    curse_of_breaking: Curse_of_breaking
+    aquaman: Aquaman
+    curse_of_misfortune: Curse_of_misfortune
+    scavenger: Scavenger
+    hover: Hover
     protection_explosions: BlastProtection
-    ender_bow: Ender_bow
+    thrifty: Thrifty
     durability: Unbreaking
-    vampire: Vampire
     arrow_fire: Flame
-    fire_shield: Fire_shield
-    swiper: Swiper
-    sonic: Sonic
-    village_defender: Village_defender
-    darkness_cloak: Darkness_cloak
+    flame_walker: Flame_walker
+    surprise: Surprise
+    double_catch: Double_catch
+    paralyze: Paralyze
     luck: Luck
-    rage: Rage
     dig_speed: Efficiency
     protection_environmental: Protection
     protection_fire: FireProtection
     protection_projectile: ProjectileProtection
-    rebound: Rebound
+    nimble: Nimble
     confusing_arrows: Confusing_arrows
-    curse_of_fragility: Curse_of_fragility
-    curse_of_drowned: Curse_of_drowned
-    thunder: Thunder
-    smelter: Smelter
+    elemental_protection: Elemental_protection
+    fire_shield: Fire_shield
     thorns: Thorns
     loyalty: Loyalty
-    explosive_arrows: Explosive_arrows
-    night_vision: Night_vision
+    tunnel: Tunnel
+    rage: Rage
+    soulbound: Soulbound
     knockback: Knockback
     soul_speed: SOULSPEED
-    poisoned_arrows: Poisoned_arrows
+    treasure_hunter: Treasure_hunter
+    electrified_arrows: Electrified_arrows
+    rocket: Rocket
+    lucky_miner: Lucky_miner
+    confusion: Confusion
     silk_touch: SilkTouch
+    curse_of_drowned: Curse_of_drowned
     breach: Breach
     protection_fall: FallProtection
+    vampiric_arrows: Vampiric_arrows
+    bunny_hop: Bunny_hop
+    exhaust: Exhaust
     damage_all: Sharpness
-    venom: Venom
-    sniper: Sniper
-    blast_mining: Blast_mining
-    flame_walker: Flame_walker
-    thrifty: Thrifty
-    double_catch: Double_catch
+    self_destruction: Self_destruction
+    ice_shield: Ice_shield
+    thunder: Thunder
+    smelter: Smelter
+    bomber: Bomber
+    cutter: Cutter
+    decapitator: Decapitator
+    dragonfire_arrows: Dragonfire_arrows
     damage_arthropods: BaneOfArthropods
     sweeping_edge: SweepingEdge
-    aquaman: Aquaman
-    surprise: Surprise
-    replanter: Replanter
-    lingering: Lingering
-    paralyze: Paralyze
-    dragonfire_arrows: Dragonfire_arrows
-    silk_chest: Silk_chest
-    loot_bonus_mobs: Looting
-    hardened: Hardened
-    scavenger: Scavenger
+    curse_of_death: Curse_of_death
+    darkness_arrows: Darkness_arrows
     stopping_force: Stopping_force
-    confusion: Confusion
-    fire_aspect: FireAspect
-    restore: Restore
-    vanishing_curse: VanishingCurse
-    survivalist: Survivalist
-    hover: Hover
+    wither: Wither
     haste: Haste
-    cold_steel: Cold_steel
+    bane_of_netherspawn: Bane_of_netherspawn
+    loot_bonus_mobs: Looting
+    ender_bow: Ender_bow
+    fire_aspect: FireAspect
+    auto_reel: Auto_reel
+    vanishing_curse: VanishingCurse
+    flare: Flare
+    regrowth: Regrowth
+    river_master: River_master
+    silk_chest: Silk_chest
+    poisoned_arrows: Poisoned_arrows
+    infernus: Infernus
     impaling: Impaling
-    exhaust: Exhaust
+    divine_touch: Divine_touch
     lure: Lure
     riptide: Riptide
+    swiper: Swiper
     frost_walker: FrostWalker
-    tunnel: Tunnel
-    withered_arrows: Withered_arrows
-    electrified_arrows: Electrified_arrows
+    night_vision: Night_vision
     oxygen: Respiration
     density: Density
-    self_destruction: Self_destruction
-    veinminer: Veinminer
-    vampiric_arrows: Vampiric_arrows
-    bomber: Bomber
-    wind_burst: Wind_burst
-    regrowth: Regrowth
-    ice_aspect: Ice_aspect
-    curse_of_mediocrity: Curse_of_mediocrity
-    double_strike: Double_strike
-    cure: Cure
-    telekinesis: Telekinesis
-    quick_charge: QUICKCHARGE
-    nimble: Nimble
-    loot_bonus_blocks: Fortune
-    darkness_arrows: Darkness_arrows
-    infernus: Infernus
-    seasoned_angler: Seasoned_angler
-    bane_of_netherspawn: Bane_of_netherspawn
-    blindness: Blindness
-    ghast: Ghast
+    rebound: Rebound
+    saturation: Saturation
     temper: Temper
+    telekinesis: Telekinesis
+    ice_aspect: Ice_aspect
+    wind_burst: Wind_burst
+    village_defender: Village_defender
+    hardened: Hardened
+    explosive_arrows: Explosive_arrows
+    vampire: Vampire
+    blast_mining: Blast_mining
+    lingering: Lingering
+    quick_charge: QUICKCHARGE
+    double_strike: Double_strike
+    curse_of_fragility: Curse_of_fragility
+    loot_bonus_blocks: Fortune
+    darkness_cloak: Darkness_cloak
+    venom: Venom
     swift_sneak: SWIFTSNEAK
+    curse_of_mediocrity: Curse_of_mediocrity
     binding_curse: BindingCurse
     multishot: Multishot
-    treasure_hunter: Treasure_hunter
-    river_master: River_master
+    curse_of_breaking: Curse_of_breaking
     arrow_knockback: Punch
-    rocket: Rocket
+    sonic: Sonic
+    restore: Restore
+    blindness: Blindness
     channeling: Channeling
-    flare: Flare
-    lucky_miner: Lucky_miner
-    curse_of_misfortune: Curse_of_misfortune
+    replanter: Replanter
   PotionEffectAliases:
     instanthealth:
     - Instant health

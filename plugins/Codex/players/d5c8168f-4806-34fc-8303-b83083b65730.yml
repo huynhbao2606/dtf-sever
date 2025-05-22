@@ -15,3 +15,17 @@ categories:
     - skills;22/05/2025
     - teams;22/05/2025
     - rewards;22/05/2025
+    - rtp;22/05/2025
+    - kits;22/05/2025
+    - tags;22/05/2025
+    - leaderboards;22/05/2025
+    - cosmetics;22/05/2025
+  regions:
+    completed: false
+    discoveries:
+    - crates;22/05/2025
+    - afk;22/05/2025
+  objectives:
+    completed: false
+    discoveries:
+    - claim_pvp_kit;22/05/2025
