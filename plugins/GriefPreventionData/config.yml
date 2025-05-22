@@ -3,19 +3,19 @@
 GriefPrevention:
   SeaLevelOverrides:
     playworld: -1
-    spawn: -1
     playworld_nether: -1
+    spawn: -1
     playworld_the_end: -1
-    mining: -1
     arena: -1
+    mining: -1
   Claims:
     Mode:
-      arena: Disabled
       playworld_nether: Disabled
       playworld_the_end: Disabled
       mining: Survival
-      spawn: Disabled
       playworld: Survival
+      arena: Disabled
+      spawn: Disabled
     PreventGlobalMonsterEggs: true
     PreventTheft: true
     ProtectCreatures: true
@@ -79,11 +79,11 @@ GriefPrevention:
   PvP:
     RulesEnabledInWorld:
       playworld: true
-      spawn: false
       playworld_nether: true
+      spawn: false
       playworld_the_end: true
-      mining: true
       arena: true
+      mining: true
     ProtectFreshSpawns: false
     PunishLogout: false
     CombatTimeoutSeconds: 15
