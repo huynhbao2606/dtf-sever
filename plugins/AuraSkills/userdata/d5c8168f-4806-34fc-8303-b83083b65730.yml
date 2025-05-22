@@ -5,7 +5,7 @@ skills:
     xp: 0.0
   auraskills/mining:
     level: 0
-    xp: 0.0
+    xp: 0.4
   auraskills/excavation:
     level: 0
     xp: 0.0
@@ -14,7 +14,7 @@ skills:
     xp: 0.0
   auraskills/agility:
     level: 0
-    xp: 0.0
+    xp: 7.0
   auraskills/farming:
     level: 0
     xp: 0.0
