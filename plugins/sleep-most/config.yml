@@ -168,6 +168,36 @@ sleep:
     skip-delay: 0
     heal: false
     feed: false
+    use-bossbar: false
+    dynamic-animation-speed: false
+    allow-sleep-cmd: true
+    force-nightcycle-animation: true
+    insomnia-milk: false
+    skip-night-sound: ui.toast.challenge_complete
+    clock-animation: true
+    allow-kick: false
+    exempt-below-y: -1
+    use-title-storm-skipped: false
+    use-sound-storm-skipped: false
+    reset-time-since-rest: true
+    longer-night-duration: 0
+    gsit-sleep: true
+    phantom-reset-audience: all
+    exempt-flying: false
+    gsit-hook: false
+    exempt-spectator: false
+    use-title-night-skipped: false
+    non-sleeping-clock-animation: false
+    insomnia-chance: 0.0
+    disable-daylight-cycle-gamerule: true
+    skip-storm-sound: entity.wither.spawn
+    non-sleeping-title: false
+    skip-storm: true
+    use-sound-night-skipped: false
+    gsit-sleep-cmd: false
+    skip-msg-audience: all
+    non-sleeping-sound: false
+    exempt-creative: false
 
 
 # specify the time which the world will be set after reset

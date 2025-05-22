@@ -1,0 +1,20 @@
+name: Fenice
+categories:
+  features:
+    completed: false
+    discoveries:
+    - warps;22/05/2025
+    - rewards;22/05/2025
+    - auction;22/05/2025
+    - factories;22/05/2025
+    - levels;22/05/2025
+    - shop;22/05/2025
+    - jobs;22/05/2025
+    - quests;22/05/2025
+    - skills;22/05/2025
+    - cosmetics;22/05/2025
+    - rtp;22/05/2025
+  objectives:
+    completed: false
+    discoveries:
+    - claim_daily_reward;22/05/2025
