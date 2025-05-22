@@ -1,17 +1,61 @@
+# BỎ QUA THẾ GIỚI GAME
+playworld/
+playworld_nether/
+playworld_the_end/
+spawn/
+arena/
+mining/
+
+# LOG, CACHE, LỊCH SỬ VÀ FILE TẠM
+logs/
+cache/
+.versions/
+.version_history.json
+.console_history
+*.log
+*.tmp
+*.bak
+
+# FILE KHÔNG CẦN THEO DÕI
+server-icon.png
 server.jar
 sever.jar
+eula.txt
+usercache.json
+whitelist.json
+banned-ips.json
+banned-players.json
+ops.json
 
-//folder 
-mining
-playworld
-playworld_nether
-playworld_the_end
-versions
-arena
-logs
-spawn
-cache
-config
-libraries
+# PLUGIN DATA (cấu hình giữ lại, data có thể loại bỏ tùy nhu cầu)
+plugins/**/data/
+plugins/**/cache/
+plugins/**/backups/
+plugins/**/logs/
 
-.console_history
+# KHÁC
+*.jar
+*.zip
+*.tar.gz
+*.exe
+
+
+# Bỏ qua tất cả file JAR trong thư mục plugins
+plugins/*.jar
+
+# Bỏ qua các thư mục cache và dữ liệu plugin
+plugins/**/data/
+plugins/**/logs/
+plugins/**/cache/
+plugins/**/backups/
+plugins/**/storage/
+plugins/**/user-data/
+plugins/**/userdata/
+plugins/**/database/
+
+# Loại trừ (không bỏ qua) các file cấu hình
+!plugins/**/config.yml
+!plugins/**/settings.yml
+!plugins/**/messages.yml
+!plugins/**/*.json
+!plugins/**/*.txt
