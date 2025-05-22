@@ -9,6 +9,8 @@ mining/
 # LOG, CACHE, LỊCH SỬ VÀ FILE TẠM
 logs/
 cache/
+config/
+libraries/
 .versions/
 .version_history.json
 .console_history
