@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 192.168.1.211
+ip-address: 127.0.0.1
 afk: false
 socialspy: false
 npc: false
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1747912554069
-  login: 1747912073391
+  logout: 1747922487340
+  login: 1747922378092
 money: '1000'
 last-account-name: HuynhBaoo
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 4b0168ce-3e79-4123-9bef-119722e4c3f0
   world-name: spawn
-  x: 16.35699188245162
-  y: 99.0
-  z: -18.47402278779609
-  yaw: 52.01129150390625
-  pitch: 3.2999753952026367
+  x: -1.6519442146394026
+  y: 100.0
+  z: 6.204773125417836
+  yaw: 164.36102294921875
+  pitch: 16.499984741210938

@@ -151,19 +151,19 @@ check-interval: 4
 # You can set messages to an empty String ("") to avoid displaying those messages.
 
 ##### You can edit these messages yourself or uncomment the existing translations (see below)
-message-besttools-enabled: "&8[&b&l!&8] &b&lSettings &8→ &7AutoTool: &aON"
-message-besttools-disabled: "&8[&b&l!&8] &b&lSettings &8→ &7AutoTool: &cOFF"
-message-refill-enabled: "&7Refill has been &aenabled&7."
-message-refill-disabled: "&7Refill has been &cdisabled&7."
+message-besttools-enabled: "&8[&b&l!&8] &b&lCài Đặt &8→ &7AutoTool: &aBẬT"
+message-besttools-disabled: "&8[&b&l!&8] &b&lCài Đặt &8→ &7AutoTool: &cTẮT"
+message-refill-enabled: "&7Tự Động Nạp đã được &abật&7."
+message-refill-disabled: "&7Tự Động Nạp đã được &ctắt&7."
 message-besttools-usage: ""
 message-refill-usage: ""
-message-hotbar-only-enabled: "&7BestTools will only use tools from your hotbar."
-message-hotbar-only-disabled: "&7BestTools will use all tools from your inventory."
-gui-favorite-slot: "Set as favorite slot"
-gui-favorite-slot-lore: "If your hotbar is full and BestTools uses a tool from your inventory, it will be places in this slot."
-gui-besttools-lore: "Automatically chooses the best tools when breaking blocks."
-gui-hotbar-lore: "When enabled, BestTools will only use tools from your hotbar instead of from your whole inventory."
-gui-refill-lore: "Automatically refills empty hotbar slots."
+message-hotbar-only-enabled: "&7AutoTool chỉ sử dụng công cụ từ hotbar."
+message-hotbar-only-disabled: "&7AutoTool sử dụng tất cả công cụ trong kho đồ."
+gui-favorite-slot: "Đặt làm ô ưu tiên"
+gui-favorite-slot-lore: "Nếu hotbar đầy và AutoTool sử dụng công cụ từ kho đồ, công cụ sẽ được đặt vào ô này."
+gui-besttools-lore: "Tự động chọn công cụ tốt nhất khi phá khối."
+gui-hotbar-lore: "Khi bật, AutoTool chỉ sử dụng công cụ từ hotbar thay vì toàn bộ kho đồ."
+gui-refill-lore: "Tự động nạp lại các ô trống trên hotbar."
 
 ##### English
 #message-besttools-enabled: "&7BestTools has been &aenabled&7."

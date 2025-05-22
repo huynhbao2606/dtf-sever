@@ -1,85 +1,23 @@
-2025-05-22 18:07:42 [INFO]: Loading Overrides...
-2025-05-22 18:07:42 [WARNING]: The world `playworldsss` doesn't seem to exist! Please update `worldsss's` override! Maybe there are capital letters?
-2025-05-22 18:07:42 [INFO]: Loading World Types...
-2025-05-22 18:07:42 [INFO]: - World Type for 'playworld' set to 'NORMAL'
-2025-05-22 18:07:42 [INFO]: - World Type for 'mining' set to 'NORMAL'
-2025-05-22 18:07:42 [INFO]: - World Type for 'playworld_nether' set to 'NETHER'
-2025-05-22 18:07:42 [SEVERE]: World Type for 'playworld_the_end' is INVALID 'END'. Valid ID's are: NORMAL, NETHER
-2025-05-22 18:07:42 [INFO]: Loading Defaults...
-2025-05-22 18:07:42 [INFO]: Loading Custom Worlds...
-2025-05-22 18:07:42 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
-2025-05-22 18:07:42 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
-2025-05-22 18:07:42 [INFO]: Loading Permission Groups...
-2025-05-22 18:07:42 [INFO]: - Permission Group: vip
-2025-05-22 18:07:42 [INFO]: - -- World: playworld
-2025-05-22 18:07:42 [INFO]: - - MaxRadius: 50000
-2025-05-22 18:07:42 [INFO]: - - MinRadius: 500
-2025-05-22 18:07:42 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
-2025-05-22 18:07:45 [INFO]: Database QUEUE:Queue configured and loaded!
-2025-05-22 18:07:45 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
-2025-05-22 18:07:45 [INFO]: Database PLAYERS:Players configured and loaded!
-2025-05-22 18:07:51 [INFO]: Attempting to queue up some more safe locations...
-2025-05-22 18:07:51 [INFO]: Queueing paused, max queue limit reached!
-2025-05-22 18:12:37 [INFO]: Fenice executed: /betterrtp:rtp world mining
-2025-05-22 18:12:40 [INFO]: -Removed a queue Location{world=CraftWorld{name=mining},x=301.5,y=74.0,z=-751.5,pitch=-1.6502057,yaw=-54.995586}
-2025-05-22 18:13:49 [INFO]: Fenice executed: /betterrtp:rtp world mining
-2025-05-22 18:13:50 [INFO]: -Removed a queue Location{world=CraftWorld{name=mining},x=949.0,y=69.0,z=403.0,pitch=0.0,yaw=0.0}
-2025-05-22 18:13:50 [INFO]: Attempting to queue up some more safe locations...
-2025-05-22 18:13:50 [INFO]: -Removed a queue Location{world=CraftWorld{name=mining},x=949.0,y=69.0,z=403.0,pitch=0.0,yaw=0.0}
-2025-05-22 18:13:50 [INFO]: Attempting to queue up some more safe locations...
-2025-05-22 18:13:52 [INFO]: -Removed a queue Location{world=CraftWorld{name=mining},x=-777.5,y=122.0,z=858.5,pitch=7.949942,yaw=-136.68826}
-2025-05-22 18:13:53 [INFO]: Queue position generated: id= rtp_mining, database_ID= 182, location= x: 43761, y: 95, z: -29254, world: mining
-2025-05-22 18:13:57 [INFO]: Queue position generated: id= rtp_mining, database_ID= 183, location= x: -31497, y: 89, z: -36241, world: mining
-2025-05-22 18:13:59 [INFO]: Queue position generated: id= rtp_mining, database_ID= 184, location= x: -21704, y: 88, z: -15770, world: mining
-2025-05-22 18:14:03 [INFO]: Queue position generated: id= rtp_mining, database_ID= 185, location= x: 27142, y: 110, z: -41954, world: mining
-2025-05-22 18:14:04 [INFO]: Queue position generated: id= rtp_mining, database_ID= 186, location= x: 39241, y: 117, z: 48286, world: mining
-2025-05-22 18:14:08 [INFO]: Queue position generated: id= rtp_mining, database_ID= 187, location= x: -5475, y: 78, z: 11774, world: mining
-2025-05-22 18:14:09 [INFO]: Queue position generated: id= rtp_mining, database_ID= 188, location= x: -13276, y: 74, z: 41203, world: mining
-2025-05-22 18:14:09 [INFO]: Queue position generated: id= rtp_mining, database_ID= 189, location= x: -16795, y: 64, z: -29218, world: mining
-2025-05-22 18:14:16 [INFO]: Queue position generated: id= rtp_mining, database_ID= 190, location= x: -30815, y: 112, z: 45503, world: mining
-2025-05-22 18:14:18 [INFO]: Queue position generated: id= rtp_mining, database_ID= 191, location= x: -44849, y: 71, z: 15896, world: mining
-2025-05-22 18:14:19 [INFO]: Queue position generated: id= rtp_mining, database_ID= 192, location= x: -14497, y: 71, z: 10239, world: mining
-2025-05-22 18:14:20 [INFO]: Queue position generated: id= rtp_mining, database_ID= 193, location= x: -18208, y: 72, z: -9086, world: mining
-2025-05-22 18:14:21 [INFO]: Queue position generated: id= rtp_mining, database_ID= 194, location= x: -14001, y: 63, z: -19734, world: mining
-2025-05-22 18:14:22 [INFO]: Queue position generated: id= rtp_mining, database_ID= 195, location= x: -48722, y: 76, z: -34775, world: mining
-2025-05-22 18:14:24 [INFO]: Queue position generated: id= rtp_mining, database_ID= 196, location= x: 12671, y: 91, z: -21336, world: mining
-2025-05-22 18:14:25 [INFO]: Queue position generated: id= rtp_mining, database_ID= 197, location= x: -39693, y: 76, z: -47581, world: mining
-2025-05-22 18:14:27 [INFO]: Queue position generated: id= rtp_mining, database_ID= 198, location= x: 30809, y: 73, z: 13164, world: mining
-2025-05-22 18:14:31 [INFO]: Queue position generated: id= rtp_mining, database_ID= 199, location= x: 23100, y: 79, z: -5916, world: mining
-2025-05-22 18:14:33 [INFO]: Queue position generated: id= rtp_mining, database_ID= 200, location= x: -31734, y: 99, z: 38384, world: mining
-2025-05-22 18:14:35 [INFO]: Queue position generated: id= rtp_mining, database_ID= 201, location= x: -46905, y: 67, z: -2573, world: mining
-2025-05-22 18:14:38 [INFO]: Queue position generated: id= rtp_mining, database_ID= 202, location= x: 1578, y: 74, z: -38305, world: mining
-2025-05-22 18:14:39 [INFO]: Queue position generated: id= rtp_mining, database_ID= 203, location= x: 32227, y: 63, z: 17971, world: mining
-2025-05-22 18:14:42 [INFO]: Queue position generated: id= rtp_mining, database_ID= 204, location= x: -42033, y: 69, z: 15872, world: mining
-2025-05-22 18:14:42 [INFO]: Queue position generated: id= rtp_mining, database_ID= 205, location= x: -45740, y: 63, z: -47473, world: mining
-2025-05-22 18:14:44 [INFO]: Queue position generated: id= rtp_mining, database_ID= 206, location= x: -49666, y: 75, z: -32648, world: mining
-2025-05-22 18:14:45 [INFO]: Queue position generated: id= rtp_mining, database_ID= 207, location= x: 13399, y: 74, z: 33492, world: mining
-2025-05-22 18:14:46 [INFO]: Queue position generated: id= rtp_mining, database_ID= 208, location= x: 40373, y: 125, z: -19769, world: mining
-2025-05-22 18:14:47 [INFO]: Queue position generated: id= rtp_mining, database_ID= 209, location= x: 26472, y: 92, z: -35056, world: mining
-2025-05-22 18:14:47 [INFO]: Queue position generated: id= rtp_mining, database_ID= 210, location= x: 34672, y: 64, z: 26839, world: mining
-2025-05-22 18:14:48 [INFO]: Queue position generated: id= rtp_mining, database_ID= 211, location= x: 10049, y: 67, z: 24459, world: mining
-2025-05-22 18:14:49 [INFO]: Queue position generated: id= rtp_mining, database_ID= 212, location= x: -9296, y: 144, z: 29453, world: mining
-2025-05-22 18:14:54 [INFO]: Queue position generated: id= rtp_mining, database_ID= 213, location= x: -31393, y: 103, z: -12745, world: mining
-2025-05-22 18:14:54 [INFO]: Queue position generated: id= rtp_mining, database_ID= 214, location= x: -47333, y: 120, z: -25425, world: mining
-2025-05-22 18:14:55 [INFO]: Queue position generated: id= rtp_mining, database_ID= 215, location= x: 10487, y: 66, z: 28903, world: mining
-2025-05-22 18:14:57 [INFO]: Queue position generated: id= rtp_mining, database_ID= 216, location= x: 3359, y: 73, z: -4732, world: mining
-2025-05-22 18:14:58 [INFO]: Queue position generated: id= rtp_mining, database_ID= 217, location= x: -29920, y: 69, z: -26458, world: mining
-2025-05-22 18:14:59 [INFO]: Queue position generated: id= rtp_mining, database_ID= 218, location= x: 22377, y: 77, z: 18129, world: mining
-2025-05-22 18:15:01 [INFO]: Queue position generated: id= rtp_mining, database_ID= 219, location= x: -8318, y: 63, z: -21759, world: mining
-2025-05-22 18:15:05 [INFO]: Queue position generated: id= rtp_mining, database_ID= 220, location= x: 34849, y: 86, z: -46375, world: mining
-2025-05-22 18:15:05 [INFO]: Queue position generated: id= rtp_mining, database_ID= 221, location= x: 12973, y: 79, z: -39088, world: mining
-2025-05-22 18:15:08 [INFO]: Queue position generated: id= rtp_mining, database_ID= 222, location= x: 4210, y: 71, z: 41112, world: mining
-2025-05-22 18:15:10 [INFO]: Queue position generated: id= rtp_mining, database_ID= 223, location= x: 617, y: 65, z: -17164, world: mining
-2025-05-22 18:15:10 [INFO]: Queue position generated: id= rtp_mining, database_ID= 224, location= x: 3493, y: 68, z: -22898, world: mining
-2025-05-22 18:15:11 [INFO]: Queue position generated: id= rtp_mining, database_ID= 225, location= x: -2443, y: 70, z: -26062, world: mining
-2025-05-22 18:15:13 [INFO]: Queue position generated: id= rtp_mining, database_ID= 226, location= x: 27448, y: 93, z: 2614, world: mining
-2025-05-22 18:15:16 [INFO]: Queue position generated: id= rtp_mining, database_ID= 227, location= x: -37326, y: 110, z: 19359, world: mining
-2025-05-22 18:15:17 [INFO]: Queue position generated: id= rtp_mining, database_ID= 228, location= x: 12640, y: 64, z: -14281, world: mining
-2025-05-22 18:15:19 [INFO]: Queue position generated: id= rtp_mining, database_ID= 229, location= x: 40381, y: 73, z: 13577, world: mining
-2025-05-22 18:15:21 [INFO]: Queue position generated: id= rtp_mining, database_ID= 230, location= x: 24049, y: 64, z: 42703, world: mining
-2025-05-22 18:15:23 [INFO]: Queue position generated: id= rtp_mining, database_ID= 231, location= x: -43308, y: 70, z: -31527, world: mining
-2025-05-22 18:15:23 [INFO]: Queue position generated: id= rtp_mining, database_ID= 232, location= x: 21478, y: 64, z: -37532, world: mining
-2025-05-22 18:15:24 [INFO]: Max attempts to create a Queue reached for rtp_mining (amount: 25)
-2025-05-22 18:15:26 [INFO]: Queue position generated: id= rtp_mining, database_ID= 233, location= x: 31909, y: 69, z: -30461, world: mining
-2025-05-22 18:15:29 [INFO]: Queue position generated: id= rtp_mining, database_ID= 234, location= x: 5605, y: 92, z: -17520, world: mining
-2025-05-22 18:15:31 [INFO]: Max attempts to create a Queue reached for rtp_mining (amount: 26)
+2025-05-22 20:59:09 [INFO]: Loading Overrides...
+2025-05-22 20:59:09 [WARNING]: The world `playworldsss` doesn't seem to exist! Please update `worldsss's` override! Maybe there are capital letters?
+2025-05-22 20:59:09 [INFO]: Loading World Types...
+2025-05-22 20:59:09 [INFO]: - World Type for 'playworld' set to 'NORMAL'
+2025-05-22 20:59:09 [INFO]: - World Type for 'mining' set to 'NORMAL'
+2025-05-22 20:59:09 [INFO]: - World Type for 'playworld_nether' set to 'NETHER'
+2025-05-22 20:59:09 [SEVERE]: World Type for 'playworld_the_end' is INVALID 'END'. Valid ID's are: NORMAL, NETHER
+2025-05-22 20:59:09 [INFO]: Loading Defaults...
+2025-05-22 20:59:09 [INFO]: Loading Custom Worlds...
+2025-05-22 20:59:09 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2025-05-22 20:59:09 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2025-05-22 20:59:09 [INFO]: Loading Permission Groups...
+2025-05-22 20:59:09 [INFO]: - Permission Group: vip
+2025-05-22 20:59:09 [INFO]: - -- World: playworld
+2025-05-22 20:59:09 [INFO]: - - MaxRadius: 50000
+2025-05-22 20:59:09 [INFO]: - - MinRadius: 500
+2025-05-22 20:59:09 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
+2025-05-22 20:59:15 [INFO]: Database QUEUE:Queue configured and loaded!
+2025-05-22 20:59:15 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2025-05-22 20:59:15 [INFO]: Database PLAYERS:Players configured and loaded!
+2025-05-22 20:59:24 [INFO]: Attempting to queue up some more safe locations...
+2025-05-22 20:59:25 [INFO]: Queueing paused, max queue limit reached!
+2025-05-22 21:30:53 [INFO]: Disabling BetterRTP v3.6.11
