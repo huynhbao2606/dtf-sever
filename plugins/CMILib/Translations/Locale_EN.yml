@@ -512,6 +512,130 @@ info:
     zombified_piglin: Zombified piglin
   # Avoid adding color codes to the enchant name
   EnchantNames:
+<<<<<<< HEAD
+    double_strike: Double_strike
+    rocket: Rocket
+    lingering: Lingering
+    blindness: Blindness
+    blast_mining: Blast_mining
+    replanter: Replanter
+    hover: Hover
+    saturation: Saturation
+    soulbound: Soulbound
+    veinminer: Veinminer
+    silk_touch: SilkTouch
+    thrifty: Thrifty
+    telekinesis: Telekinesis
+    binding_curse: BindingCurse
+    luck: Luck
+    cutter: Cutter
+    damage_all: Sharpness
+    stopping_force: Stopping_force
+    curse_of_drowned: Curse_of_drowned
+    ice_aspect: Ice_aspect
+    nimble: Nimble
+    sweeping_edge: SweepingEdge
+    double_catch: Double_catch
+    piercing: Piercing
+    curse_of_misfortune: Curse_of_misfortune
+    sniper: Sniper
+    channeling: Channeling
+    curse_of_death: Curse_of_death
+    flame_walker: Flame_walker
+    elemental_protection: Elemental_protection
+    decapitator: Decapitator
+    surprise: Surprise
+    water_worker: AquaAffinity
+    night_vision: Night_vision
+    venom: Venom
+    river_master: River_master
+    protection_projectile: ProjectileProtection
+    arrow_fire: Flame
+    survivalist: Survivalist
+    loot_bonus_mobs: Looting
+    protection_fall: FallProtection
+    regrowth: Regrowth
+    auto_reel: Auto_reel
+    aquaman: Aquaman
+    knockback: Knockback
+    sonic: Sonic
+    infernus: Infernus
+    bomber: Bomber
+    bunny_hop: Bunny_hop
+    multishot: Multishot
+    damage_undead: Smite
+    arrow_damage: Power
+    frost_walker: FrostWalker
+    durability: Unbreaking
+    bane_of_netherspawn: Bane_of_netherspawn
+    fire_aspect: FireAspect
+    confusing_arrows: Confusing_arrows
+    confusion: Confusion
+    depth_strider: DepthStrider
+    village_defender: Village_defender
+    exhaust: Exhaust
+    protection_explosions: BlastProtection
+    soul_speed: SOULSPEED
+    fire_shield: Fire_shield
+    ice_shield: Ice_shield
+    divine_touch: Divine_touch
+    loot_bonus_blocks: Fortune
+    explosive_arrows: Explosive_arrows
+    loyalty: Loyalty
+    mending: Mending
+    impaling: Impaling
+    breach: Breach
+    dragonfire_arrows: Dragonfire_arrows
+    withered_arrows: Withered_arrows
+    electrified_arrows: Electrified_arrows
+    cold_steel: Cold_steel
+    curse_of_fragility: Curse_of_fragility
+    wind_burst: Wind_burst
+    cure: Cure
+    arrow_knockback: Punch
+    seasoned_angler: Seasoned_angler
+    treasure_hunter: Treasure_hunter
+    wither: Wither
+    swift_sneak: SWIFTSNEAK
+    rebound: Rebound
+    tunnel: Tunnel
+    lucky_miner: Lucky_miner
+    hardened: Hardened
+    poisoned_arrows: Poisoned_arrows
+    density: Density
+    arrow_infinite: Infinity
+    flare: Flare
+    thorns: Thorns
+    damage_arthropods: BaneOfArthropods
+    smelter: Smelter
+    curse_of_breaking: Curse_of_breaking
+    darkness_cloak: Darkness_cloak
+    quick_charge: QUICKCHARGE
+    curse_of_mediocrity: Curse_of_mediocrity
+    dig_speed: Efficiency
+    riptide: Riptide
+    protection_environmental: Protection
+    thunder: Thunder
+    exp_hunter: Exp_hunter
+    self_destruction: Self_destruction
+    haste: Haste
+    vanishing_curse: VanishingCurse
+    swiper: Swiper
+    restore: Restore
+    silk_chest: Silk_chest
+    scavenger: Scavenger
+    lure: Lure
+    temper: Temper
+    oxygen: Respiration
+    paralyze: Paralyze
+    vampiric_arrows: Vampiric_arrows
+    ender_bow: Ender_bow
+    rage: Rage
+    ghast: Ghast
+    vampire: Vampire
+    darkness_arrows: Darkness_arrows
+    protection_fire: FireProtection
+=======
     haste: Haste
     curse_of_death: Curse_of_death
     sweeping_edge: SweepingEdge
@@ -634,6 +758,7 @@ info:
     ice_aspect: Ice_aspect
     night_vision: Night_vision
     village_defender: Village_defender
+>>>>>>> f2798fd9889db54906e38b28afde766d9fdf0385
   PotionEffectAliases:
     instanthealth:
     - Instant health
