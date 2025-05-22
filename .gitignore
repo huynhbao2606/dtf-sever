@@ -9,3 +9,8 @@ versions
 arena
 logs
 spawn
+cache
+config
+libraries
+
+.console_history
