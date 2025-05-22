@@ -1,4 +1,5 @@
 server.jar
+sever.jar
 
 //folder 
 mining
@@ -6,3 +7,11 @@ playworld
 playworld_nether
 playworld_the_end
 versions
+arena
+logs
+spawn
+cache
+config
+libraries
+
+.console_history
