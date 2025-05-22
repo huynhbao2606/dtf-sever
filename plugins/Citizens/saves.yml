@@ -16,7 +16,7 @@ npc:
         bodyYaw: -22.818542
         world: spawn
         x: -3.5
-        y: 101.0
+        y: 64.0
         z: -9.5
         yaw: -22.8185
         pitch: 0.0
@@ -68,7 +68,7 @@ npc:
         bodyYaw: -169.41873
         world: spawn
         x: -1.5
-        y: 101.0
+        y: 66.0
         z: 11.5
         yaw: -169.4187
         pitch: 0.0
@@ -124,7 +124,7 @@ npc:
         bodyYaw: -153.67346
         world: spawn
         x: -4.5
-        y: 101.0
+        y: 66.0
         z: 10.5
         yaw: -153.6735
         pitch: 0.0
@@ -180,7 +180,7 @@ npc:
         bodyYaw: -136.90588
         world: spawn
         x: -7.5
-        y: 101.0
+        y: 67.0
         z: 8.5
         yaw: -136.9059
         pitch: 0.0
@@ -236,7 +236,7 @@ npc:
         bodyYaw: -117.19499
         world: spawn
         x: -9.5
-        y: 101.0
+        y: 67.0
         z: 5.5
         yaw: -117.195
         pitch: 0.0
@@ -292,7 +292,7 @@ npc:
         bodyYaw: -101.62405
         world: spawn
         x: -10.5
-        y: 101.0
+        y: 66.0
         z: 2.5
         yaw: -101.624
         pitch: 0.0
@@ -347,7 +347,7 @@ npc:
         bodyYaw: 34.705147
         world: spawn
         x: 26.5
-        y: 100.0
+        y: 67.0
         z: -31.5
         yaw: 34.7051
         pitch: -6.6936
@@ -413,7 +413,7 @@ npc:
         bodyYaw: 17.855019
         world: spawn
         x: 18.5
-        y: 100.0
+        y: 67.0
         z: -34.5
         yaw: 17.855
         pitch: 0.0
@@ -481,7 +481,7 @@ npc:
         bodyYaw: 90.94823
         world: spawn
         x: 10.5
-        y: 101.0
+        y: 64.0
         z: 4.5
         yaw: 110.5886
         pitch: 0.0
@@ -548,7 +548,7 @@ npc:
         bodyYaw: -68.91568
         world: spawn
         x: -9.5
-        y: 101.0
+        y: 64.0
         z: -3.5
         yaw: -68.9157
         pitch: 0.0
@@ -613,7 +613,7 @@ npc:
         bodyYaw: 44.963882
         world: spawn
         x: 18.5
-        y: 100.0
+        y: 63.0
         z: -17.5
         yaw: 44.9639
         pitch: 0.0
@@ -678,7 +678,7 @@ npc:
         bodyYaw: -45.542534
         world: spawn
         x: 0.5
-        y: 100.0
+        y: 69.0
         z: -38.5
         yaw: -45.5425
         pitch: 0.0
@@ -743,7 +743,7 @@ npc:
         bodyYaw: 69.507324
         world: spawn
         x: 35.5
-        y: 100.0
+        y: 62.0
         z: -17.5
         yaw: 69.5073
         pitch: 0.0
@@ -808,7 +808,7 @@ npc:
         bodyYaw: 61.913498
         world: spawn
         x: 34.5
-        y: 100.0
+        y: 62.0
         z: -21.5
         yaw: 61.9135
         pitch: 0.0
@@ -873,7 +873,7 @@ npc:
         bodyYaw: 51.968857
         world: spawn
         x: 32.5
-        y: 100.0
+        y: 60.0
         z: -25.5
         yaw: 51.9689
         pitch: 0.0
@@ -938,7 +938,7 @@ npc:
         bodyYaw: 89.86525
         world: spawn
         x: 35.5
-        y: 100.0
+        y: 62.0
         z: -13.5
         yaw: 89.8652
         pitch: 0.0
@@ -1004,7 +1004,7 @@ npc:
         bodyYaw: 106.72328
         world: spawn
         x: 42.5
-        y: 100.0
+        y: 63.0
         z: -1.5
         yaw: 126.7233
         pitch: 0.0
@@ -1071,7 +1071,7 @@ npc:
         bodyYaw: -0.13404083
         world: spawn
         x: 14.5
-        y: 100.0
+        y: 67.0
         z: -34.5
         yaw: -0.134
         pitch: 0.0
@@ -1136,7 +1136,7 @@ npc:
         bodyYaw: 26.621368
         world: spawn
         x: 22.5
-        y: 100.0
+        y: 67.0
         z: -33.5
         yaw: 26.6214
         pitch: 0.0
@@ -1202,7 +1202,7 @@ npc:
         bodyYaw: -157.4229
         world: spawn
         x: 50.5
-        y: 112.0
+        y: 63.0
         z: -32.5
         yaw: -157.4229
         pitch: 0.0
@@ -1267,7 +1267,7 @@ npc:
         bodyYaw: 139.67181
         world: spawn
         x: 26.5
-        y: 100.0
+        y: 63.0
         z: -5.5
         yaw: 148.7245
         pitch: 0.0
@@ -1398,7 +1398,7 @@ npc:
         bodyYaw: 138.95847
         world: spawn
         x: 4.5
-        y: 101.0
+        y: 64.0
         z: 10.5
         yaw: 156.5876
         pitch: 0.0
@@ -1472,7 +1472,7 @@ npc:
         bodyYaw: -61.00633
         world: spawn
         x: 4.5
-        y: 100.0
+        y: 66.0
         z: -26.5
         yaw: -61.0063
         pitch: 0.0
@@ -1550,7 +1550,7 @@ npc:
         bodyYaw: -115.51265
         world: spawn
         x: -12.5
-        y: 100.0
+        y: 70.0
         z: -35.5
         yaw: -115.5126
         pitch: 0.0
@@ -1624,7 +1624,7 @@ npc:
         bodyYaw: 89.88522
         world: spawn
         x: 48.5
-        y: 105.0
+        y: 62.0
         z: -31.5
         yaw: 89.8852
         pitch: 0.0
